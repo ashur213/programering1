@@ -23,6 +23,14 @@ public class HelloWorld {
 			System.out.println("du bor i staden: " + stad);
 			System.out.println("vad är ditt telefonnummer?");
 			String telefon = input.nextLine();
+			
+			
+			System.out.println("Information:");
+			System.out.println("ditt användanamn är: " + name);
+			System.out.println("Din ålder är: " + age);
+			System.out.println("din adress är: " + shorba);
+			System.out.println("din postnummer är: " + postnmr);
+			System.out.println("du bor i staden: " + stad);
 			System.out.println("Ditt telefonnummer är: " + telefon);
 	}
 
