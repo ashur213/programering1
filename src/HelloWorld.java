@@ -24,6 +24,7 @@ public class HelloWorld {
 			System.out.println("vad är ditt telefonnummer?");
 			String telefon = input.nextLine();
 			
+			input.nextLine();
 			
 			System.out.println("Information:");
 			System.out.println("ditt användanamn är: " + name);
